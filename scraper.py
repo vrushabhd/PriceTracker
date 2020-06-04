@@ -25,7 +25,7 @@ def check_price():
 
     if(converted_price < 14000):  # add price you  want to track
 
-        send_mail()
+        send_mail()# sending mail
 
 
 def send_mail():
